@@ -12,7 +12,7 @@
 ### Training Setup
 
 - **Task:** Phishing vs Legitimate email screenshot classification
-- **Training images per class:** ~25
+- **Training images per class:** ~20
 - **Test images per class:** 5
 - **Total training time:** ~30 seconds
 
